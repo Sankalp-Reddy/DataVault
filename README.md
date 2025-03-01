@@ -25,3 +25,12 @@ Follow these instructions to set up the project locally.
    ```bash
    git clone https://github.com/yourusername/DataVault.git
    cd DataVault
+
+2. **Install necessary dependencies and run the app**
+
+
+## Usage
+
+1. Store Your Data: Use the interface to input and temporarily store your data.
+2. Select Retention: Choose the desired retention period (from 1 hour to 1 week).
+3. Automatic Deletion: Your data will be automatically removed once the retention period expires.
