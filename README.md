@@ -23,8 +23,7 @@ Follow these instructions to set up the project locally.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/DataVault.git
-   cd DataVault
+   git clone https://github.com/Sankalp-Reddy/DataVault.git
 
 2. **Install necessary dependencies and run the app**
 
