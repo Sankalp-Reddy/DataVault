@@ -236,6 +236,7 @@ export default function AccessPage() {
 
   return (
     <div className="container mx-auto max-w-4xl p-4 py-8">
+      <header><title>DataVault</title></header>
       <div className="mb-8 flex items-center justify-between">
         <Link href="/" className="text-sm font-medium hover:underline">
           ← Back to Home
